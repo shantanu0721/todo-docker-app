@@ -26,11 +26,11 @@ A simple Todo backend API built using **Node.js**, **Express**, **MongoDB**, and
 ## 📁 Project Structure
 
 todo-app/
-├── backend/
-│ ├── Dockerfile
-│ ├── package.json
-│ ├── server.js
-│ └── .env
-├── docker-compose.yml
-├── .gitignore
-└── README.md
+->backend/
+   ->Dockerfile
+   ->package.json
+   ->server.js
+   -> .env
+->docker-compose.yml
+  -> .gitignore
+  -> README.md
